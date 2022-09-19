@@ -1,12 +1,12 @@
 import { Router } from 'express';
-import ProductController from '../controllers/products.controller';
+import ProductsController from '../controllers/products.controller';
 import productValidation from '../middlewares/product.middleware';
 
 const router = Router();
 
-const productController = new ProductController();
+const productsController = new ProductsController();
 
-router.get('/products', productController.getAll);
-router.post('/products', productValidation, productController.create);
+router.get('/products', productsController.getAll);
+router.post('/products', productValidation, productsController.create);
 
 export default router;
