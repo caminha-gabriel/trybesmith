@@ -1,4 +1,4 @@
-[Leia em Inglês](./README.md)
+[Read in English!](./README.md)
 
 # Projeto TrybeSmith
 Desenvolvi este projeto durante meu módulo de Back-end estudando na Trybe no meio de 2022.
