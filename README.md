@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+[Leia em Português!](./README-PT.md)
+
+# TrybeSmith Project
+I developed this project during my Back-end module studying at Trybe on mid 2022.
+
+---
+## Objective
+TrybeSmith's primary objective was developing a CRUD(Create, Read, Update, Delete) RESTful API, using TypeScript, Node.js, Express, Docker and MSC(Model, Service, Controller) Architecture.
+
+---
+## Some Important Learnings
+- Creating and implementing flexible Interfaces.
+- Deep error handling.
+- Raw database queries on model level.
+
+---
+## * Observation
+Due to Trybe's evaluation method, this project doesn't have a documented way to run on your computer, but all the code and commits are preserved in this repo.
